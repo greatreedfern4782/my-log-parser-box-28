@@ -1,2 +1,9 @@
-# my-log-parser-box-28
-A simple log parser project
+# Log Parser
+
+A simple log parser project.
+\n
+## Getting Started
+
+```bash
+python log.py
+```
